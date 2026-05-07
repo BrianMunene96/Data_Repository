@@ -1,3 +1,5 @@
+{
+"market_data":
 [{"product_name":"Portable Folding Picnic Table","price":1652.13,"quantity":539,"category":"electronics"},
 {"product_name":"Electric Food Slicer","price":7187.52,"quantity":54,"category":"household"},
 {"product_name":"Pumpkin Pancake Mix","price":5263.73,"quantity":929,"category":"personal care"},
@@ -998,3 +1000,4 @@
 {"product_name":"Fitness Jump Rope","price":4269.9,"quantity":92,"category":"household"},
 {"product_name":"Slim Fit Chinos","price":3769.0,"quantity":228,"category":"groceries"},
 {"product_name":"Wooden Toy Train Set","price":5886.76,"quantity":229,"category":"household"}]
+}
